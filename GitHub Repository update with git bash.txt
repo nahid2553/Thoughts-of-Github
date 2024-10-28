@@ -1,0 +1,10 @@
+GitHub Repository Update with git-bash
+
+Step 1: Create a folder and open with git bash
+Step 2: git clone link…..  (paste repository link)
+Step 3: Go to cloned folder and open with git bash again
+Step 4: git status (check repositories untracked file)
+Step 5: git add . 
+Step 6: git status (check again everything is okay) 
+Step 7: git commit -m “write message about update repository”
+Step 8: git push (GitHub username, password required if unverified) 
